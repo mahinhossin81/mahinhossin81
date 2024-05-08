@@ -17,7 +17,7 @@ Skills: Next / JS React / JS / WEB API / BOM / DOM / JSON / ECMAScript / JavaScr
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.w3school.com/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
