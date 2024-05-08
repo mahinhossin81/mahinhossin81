@@ -65,7 +65,10 @@ Skills: Next / JS React / JS / WEB API / BOM / DOM / JSON / ECMAScript / JavaScr
 
 ## Best Repo -
 
-
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=mahinhossin81&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mahinhossin81/Java-Project)
+[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=mahinhossin81&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mahinhossin81/100_plus_C_Problems)
+[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=mahinhossin81&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mahinhossin81/front_end_projects)
+[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=mahinhossin81&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mahinhossin81/weblitical)
 
 
 ## Github Stats -
