@@ -1,14 +1,13 @@
 ![I am ](https://github.com///blob/main/code.png)
 
 <h1 align="center">Hi 👋, Abdul Al MAhin</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h3 align="center">Front-End Devoloper</h3>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: Next / JS React / JS / WEB API / BOM / DOM / JSON / ECMAScript / JavaScript / Sass / Bootstrap 5 / Tailwind CSS / VS Code / Chrome Devtools / GitHub / Git / CSS 3 / HTML 5
 
 </div>
 
