@@ -1,4 +1,4 @@
-![I am ](https://github.com///blob/main/code.png)
+![I am ](../)
 
 <h1 align="center">Hi 👋, Abdul Al MAhin</h1>
 <h3 align="center">Front-End Devoloper</h3>
