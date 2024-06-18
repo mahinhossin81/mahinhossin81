@@ -1,6 +1,6 @@
 ![I am harun81](code.png)
 
-<h1 align="center">Hi 👋, Abdul Al MAhin</h1>
+<h1 align="center">Hi 👋, Abdul Al Mahin</h1>
 <h3 align="center">Front-End Devoloper</h3>
 
 <div align="center">
@@ -23,7 +23,8 @@ Skills: Next / JS React / JS / WEB API / BOM / DOM / JSON / ECMAScript / JavaScr
 
 - 📫 How to reach me **mahinhossin81@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/mahinhossin81](https://lnk.bio/mahinhossin81)
+-
+-  📄 All About Me:[https://lnk.bio/mahinhossin81](https://lnk.bio/mahinhossin81)
 
 <h3 align="left">Connect with me:</h3>
 
